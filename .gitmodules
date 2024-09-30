@@ -1,0 +1,4 @@
+[submodule "Bucknet-org.github.io"]
+	path = Bucknet-org.github.io
+	url = https://github.com/Bucknet-org/Bucknet-org.github.io.git
+	branch = main
