@@ -1,0 +1,13 @@
+site_name: Bucknet Org
+site-url: https:Bucknet-org.github.io
+site-author: Bucknet
+site_description: A pioneer trustless reputation system for money markets
+
+nav:
+  - Introduction: index.md
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
