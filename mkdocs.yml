@@ -5,9 +5,18 @@ site_description: A pioneer trustless reputation system for money markets
 
 nav:
   - Introduction: index.md
+  - Consensus:
+    - History: consensus/history.md
+    - Architecture Overview: consensus/architecture_overview.md
+    - Proof of Reputation: consensus/por.md
 
 theme:
   name: readthedocs
   highlightjs: true
   hljs_languages:
     - yaml
+
+markdown_extensions:
+  - toc:
+      title: On this page
+      permalink: true
