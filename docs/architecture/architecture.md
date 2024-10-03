@@ -20,7 +20,7 @@ The TRs is divided into 7 layers. Each of these is broken down into smaller unit
 
   - **Consensus Layer**: all full nodes reach a consensus on the validity of state transitions
 
-![Trs Architecture](img/TRs_architecture.png)
+![Trs Architecture](../../img/TRs_architecture.png)
 
 ### Layer Design
 

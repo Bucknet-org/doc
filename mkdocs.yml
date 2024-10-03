@@ -22,5 +22,6 @@ theme:
 
 markdown_extensions:
   - toc:
-      title: On this page
-      permalink: true
+      permalink: "#"
+      baselevel: 2
+      separator: "_"

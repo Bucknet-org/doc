@@ -19,7 +19,7 @@ p(i) = (α * Cl_R(i) + β * Cu_R(i)) / (∑Cl_R(i) + ∑Cu_R(i))
 ```
 Where α+β=1,α>β>0
 
-![Consensus](img/consensus.png)
+![Consensus](../../img/consensus.png)
 
 To avoid potential attacks and centralization, cumulative reputation and current reputation of a consensus group should meet the following requirements:
 
