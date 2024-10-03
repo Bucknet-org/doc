@@ -4,11 +4,15 @@ site-author: Bucknet
 site_description: A pioneer trustless reputation system for money markets
 
 nav:
-  - Introduction: index.md
+  - Introduction:
+    - Intro: index.md
   - Consensus:
     - History: consensus/history.md
     - Architecture Overview: consensus/architecture_overview.md
     - Proof of Reputation: consensus/por.md
+  
+  - Architecture: 
+    - Architecture: architecture/architecture.md
 
 theme:
   name: readthedocs
