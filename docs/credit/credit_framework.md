@@ -11,7 +11,7 @@ Here is the proposed framework for such system with the tech debt that will enta
 
 ---
 
-### **The C.R.E.D.I.T. Score**
+# **The C.R.E.D.I.T. Score**
 
 The C.R.E.D.I.T. Score is a 100-point system that evaluates a crypto address across six key dimensions:
 
@@ -24,7 +24,7 @@ The C.R.E.D.I.T. Score is a 100-point system that evaluates a crypto address acr
 
 ---
 
-#### **1. Collateral (25 Points)**
+## **1. Collateral (25 Points)**
 
 **Interpretation:** This dimension assesses the financial strength of an address by evaluating the value and quality of assets that can be used as collateral.
 
@@ -49,7 +49,7 @@ The C.R.E.D.I.T. Score is a 100-point system that evaluates a crypto address acr
 
 ---
 
-#### **2. Repayment History (25 Points)**
+## **2. Repayment History (25 Points)**
 
 **Interpretation:** This dimension examines the address's history of fulfilling financial obligations, similar to payment history in traditional credit scoring. However, since most of lending protocols are using overcollaterize model, we can only fault them if we can detect liquidation and debt utilization as debt repayment is handle by protocol conversion rate (token-collaterized token)
 
@@ -65,7 +65,7 @@ The C.R.E.D.I.T. Score is a 100-point system that evaluates a crypto address acr
 
 ---
 
-#### **3. Engagement (15 Points)**
+## **3. Engagement (15 Points)**
 
 **Interpretation:** Measures the address's active participation in the crypto ecosystem, indicating experience and reliability.
 
@@ -87,7 +87,7 @@ The C.R.E.D.I.T. Score is a 100-point system that evaluates a crypto address acr
 
 ---
 
-#### **4. Diversification Risk - Behavior Framework Scoring !! (10 Points)**
+## **4. Diversification Risk - Behavior Framework Scoring !! (10 Points)**
 
 **Interpretation:** Assesses the address's asset diversification, reflecting sound investment strategies and risk management.
 
@@ -102,7 +102,7 @@ The C.R.E.D.I.T. Score is a 100-point system that evaluates a crypto address acr
 
 ---
 
-#### **5. Identity Verification (15 Points)**
+## **5. Identity Verification (15 Points)**
 
 **Interpretation:** Establishes the credibility of the address through identity proofs and reputation systems.
 
@@ -119,7 +119,7 @@ The C.R.E.D.I.T. Score is a 100-point system that evaluates a crypto address acr
 
 ---
 
-#### **6. Time in Network (10 Points)**
+## **6. Time in Network (10 Points)**
 
 **Interpretation:** Considers the longevity and consistency of the address's activity in the blockchain network.
 

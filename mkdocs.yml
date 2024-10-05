@@ -14,6 +14,9 @@ nav:
   - Architecture: 
     - Architecture: architecture/architecture.md
 
+  - Credit Framework:
+    - C.R.E.D.I.T Score: credit/credit_framework.md
+
 theme:
   name: readthedocs
   highlightjs: true
